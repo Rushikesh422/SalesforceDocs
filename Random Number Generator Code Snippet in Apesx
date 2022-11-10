@@ -1,0 +1,1 @@
+Integer randomInt = Integer.valueOf(math.rint(math.random()*1000000));
